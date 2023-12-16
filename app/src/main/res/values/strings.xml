@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="buttonText">Keyingi</string>
+    <string name="heading">MODEL VIEW PRESENTER</string>
+</resources>
